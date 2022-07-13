@@ -106,7 +106,7 @@ nav ul li {
 nav ul li::after {
   content: "";
   display: block;
-  border-bottom: 2px solid #00d2df;
+  border-bottom: 2px solid #ff0000;
   margin-top: 5px;
   transform: scaleX(0);
   transition: transform 0.3s ease;
@@ -128,7 +128,7 @@ nav p a {
 }
 
 nav p a:hover {
-  color: rgba(147, 88, 247, 1);
+  color: rgb(255, 0, 0);
 }
 
 .principal,
@@ -290,7 +290,7 @@ a {
 .sobre-mim__descricao-buttons-email:hover,
 .projetos__card-button:hover {
   background-color: #272727;
-  text-shadow: 1px 1px 3px #00bbc5;
+  text-shadow: 1px 1px 3px #ff0000;
 }
 
 @keyframes move {
