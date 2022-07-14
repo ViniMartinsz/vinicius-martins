@@ -123,12 +123,12 @@ nav p {
 }
 
 nav p a {
-  color: #ff0000;
+  color: rgb(255, 0, 0);
   transition: 0.3s;
 }
 
 nav p a:hover {
-  color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .principal,
